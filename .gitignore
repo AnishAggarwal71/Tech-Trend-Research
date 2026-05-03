@@ -1,0 +1,40 @@
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Resources folder
+Resources/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Chroma vector DB
+chroma_db/
+
+# Output files
+output/
+*.xlsx
+*.md
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
